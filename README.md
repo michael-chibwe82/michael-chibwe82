@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michael-chibwe82
+- 👋 Hi, I’m Michael Chibwe
 - 👀 I’m interested in web development
 - 🌱 I’m currently studying Information Technology
 - 💞️ I’m looking to collaborate on any Software Dev Project
